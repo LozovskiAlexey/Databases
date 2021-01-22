@@ -1,0 +1,9 @@
+C:\Users\mrado\OneDrive\Desktop\Labs\semester5\DB\lab_04\lab_04\bin\Debug\lab_04.dacpac
+C:\Users\mrado\OneDrive\Desktop\Labs\semester5\DB\lab_04\lab_04\bin\Debug\lab_04.dll
+C:\Users\mrado\OneDrive\Desktop\Labs\semester5\DB\lab_04\lab_04\bin\Debug\lab_04.pdb
+C:\Users\mrado\OneDrive\Desktop\Labs\semester5\DB\lab_04\lab_04\obj\Debug\Model.xml
+C:\Users\mrado\OneDrive\Desktop\Labs\semester5\DB\lab_04\lab_04\obj\Debug\refactor.xml
+C:\Users\mrado\OneDrive\Desktop\Labs\semester5\DB\lab_04\lab_04\obj\Debug\postdeploy.sql
+C:\Users\mrado\OneDrive\Desktop\Labs\semester5\DB\lab_04\lab_04\obj\Debug\predeploy.sql
+C:\Users\mrado\OneDrive\Desktop\Labs\semester5\DB\lab_04\lab_04\obj\Debug\lab_04.dll
+C:\Users\mrado\OneDrive\Desktop\Labs\semester5\DB\lab_04\lab_04\obj\Debug\lab_04.pdb
